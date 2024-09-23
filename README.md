@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @dmudugam
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @dmudugam, and I promise I’m not a bot... unless it’s a really cool bot that tells dad jokes!
+- 👀 I’m interested in ... discovering whether pineapple belongs on pizza or if it’s just a tropical conspiracy.
+- 🌱 I’m currently learning ... how to juggle my responsibilities without dropping the imaginary balls of life!
+- 💞️ I’m looking to collaborate on ... the ultimate guide to procrastination—because why do today what you can put off until tomorrow?
+- 📫 How to reach me ... send a carrier pigeon, but make sure it’s well-fed; I don’t want any hangry birds showing up!
 
 ![](https://komarev.com/ghpvc/?username=dmudugam&color=green)
 
