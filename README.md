@@ -4,12 +4,13 @@
 - 💞️ I’m looking to collaborate on ... the ultimate guide to procrastination—because why do today what you can put off until tomorrow?
 - 📫 How to reach me ... send a carrier pigeon, but make sure it’s well-fed; I don’t want any hangry birds showing up!
 
+
 <p align="center">
-  ![](https://komarev.com/ghpvc/?username=dmudugam&color=green)
+    <img id="preview" src="https://komarev.com/ghpvc/?username=dmudugam&color=green">
 </p>
 
 <p align="center">
-    <a href="https://leetcode.com/drknzz/"><img width="48%" src="https://leetcode.card.workers.dev/dineth17?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
+    <a href="https://leetcode.com/drknzz/"><img width="50%" src="https://leetcode.card.workers.dev/dineth17?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
     <a href="https://github.com/drknzz"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmudugam&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a>
 </p>
 
