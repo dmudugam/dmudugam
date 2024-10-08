@@ -1,8 +1,16 @@
-- 👋 Hi, I’m @dmudugam, and I promise I’m not a bot... unless it’s a really cool bot that tells dad jokes!
-- 👀 I’m interested in ... discovering whether pineapple belongs on pizza or if it’s just a tropical conspiracy.
-- 🌱 I’m currently learning ... how to juggle my responsibilities without dropping the imaginary balls of life!
-- 💞️ I’m looking to collaborate on ... the ultimate guide to procrastination—because why do today what you can put off until tomorrow?
-- 📫 How to reach me ... send a carrier pigeon, but make sure it’s well-fed; I don’t want any hangry birds showing up!
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="20%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="20%" style="display:inline;">
+<br>
+<p align="center">
+    <h1 align="center">✩&emsp;DMUDUGAM&emsp;✩</h1>
+</p>
+
+![Lottie Animation](https://lottie.host/embed/6f6c5e2e-71cd-4e41-b21d-4698fe0e873a/xBHNCAxKRH.json)
+
+👋 Hi, I’m @dmudugam, and I promise I’m not a bot... unless it’s a really cool bot that tells dad jokes!  
+👀 I’m interested in ... discovering whether pineapple belongs on pizza or if it’s just a tropical conspiracy.  
+🌱 I’m currently learning ... how to juggle my responsibilities without dropping the imaginary balls of life!  
+💞️ I’m looking to collaborate on ... the ultimate guide to procrastination—because why do today what you can put off until tomorrow?  
+📫 How to reach me ... send a carrier pigeon, but make sure it’s well-fed; I don’t want any hangry birds showing up!  
 
 
 <p align="center">
