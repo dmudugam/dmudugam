@@ -5,7 +5,7 @@
 </p>
 
 <div align="center">
-    <img width="50%" src="https://github.com/dmudugam/dmudugam/blob/main/build/assets/imgs/dog3.gif" alt="Lottie Animation">
+    <img width="40%" src="https://github.com/dmudugam/dmudugam/blob/main/build/assets/imgs/golden.gif" alt="Lottie Animation">
 </div>
 
 👋 Hi, I’m @dmudugam, and I promise I’m not a bot... unless it’s a really cool bot that tells dad jokes!  
