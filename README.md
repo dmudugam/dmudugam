@@ -21,7 +21,7 @@
 
 <p align="center">
     <a href="https://leetcode.com/dineth17/"><img width="48%" src="https://leetcard.jacoblin.cool/dineth17?theme=unicorn"></a>
-    <a href="https://github.com/dmudugam"><img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmudugam&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a>
+    <a href="https://github.com/dmudugam"><img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmudugam&theme=ambient_gradient&hide=html,css,cmake&layout=compact&langs_count=6&bg_color=&hide_title=true"></a>
 </p>
 
 <!---
